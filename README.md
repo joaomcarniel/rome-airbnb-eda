@@ -11,8 +11,8 @@ What drives nightly price and review quality for Airbnb listings in Rome?
 - **Superhosts get better reviews.** Superhosts average 96.8 vs 92.0 for other hosts, and a randomly chosen superhost has the higher rating about 7 times in 10 (Mann-Whitney test).
 - **Instant booking and minimum stay barely affect price.**
 
-![Price distribution before and after log transform](fig1_price_log.png)
-![Correlation heatmaps](fig2_heatmap.png)
+![Price distribution before and after log transform](Figures/fig1_price_log.png)
+![Correlation heatmaps](Figures\fig2_heatmap.png)
 
 ## Data
 
