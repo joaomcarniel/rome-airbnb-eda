@@ -12,7 +12,7 @@ What drives nightly price and review quality for Airbnb listings in Rome?
 - **Instant booking and minimum stay barely affect price.**
 
 ![Price distribution before and after log transform](Figures/fig1_price_log.png)
-![Correlation heatmaps](Figures\fig2_heatmap.png)
+![Correlation heatmaps](Figures/fig2_heatmap.png)
 
 ## Data
 
